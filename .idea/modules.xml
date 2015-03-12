@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LabInstrument/LabInstrument.iml" filepath="$PROJECT_DIR$/LabInstrument/LabInstrument.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LabInstrumentProject.iml" filepath="$PROJECT_DIR$/LabInstrumentProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-studio-instrumentation-test.iml" filepath="$PROJECT_DIR$/android-studio-instrumentation-test.iml" />
     </modules>
   </component>
 </project>
